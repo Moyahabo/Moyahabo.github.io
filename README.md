@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Moyahabo Rabothata - Data Analytics Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
